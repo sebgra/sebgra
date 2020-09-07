@@ -12,7 +12,10 @@
 ### Connect with me : 
 
 [<img align="left" alt="Sebgra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sebgra | Mail" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />][mail]
 <br />
+
+
 
 
 ### Languages and tools
@@ -32,3 +35,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/sebastien-gradit/
+[mail]: mailto:sebastiengradit@hotmail.com?subject=""
