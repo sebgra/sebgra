@@ -30,6 +30,16 @@
 
 <br />
 
+<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt = "Sebgra's GitHub Stats" src =" https://github-readme-stats.sebgra.vercel.app
+/api?username=sebgra&show_icons=true&hide_border=true" />
+</details>
+
+<br />
+
 ### :books: My last research readings :
 
 - Bioinformatics : The Machine Learning Approach (Second Edition) - Pierre Baldi, Søren Brunak - 2001
