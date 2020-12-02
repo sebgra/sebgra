@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebgra&label=Profile%20views&color=0e75b6&style=flat" alt="sebgra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebgra" alt="sebgra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebgra&theme=onedark" alt="sebgra" /></a> </p>
 
 - 🔭 I'm currently working on **the objectivation of xSPECT technology (Siemens) and the development of supervised segmentation method for medical images**
 
@@ -47,7 +47,7 @@
 	<img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> 	
 	 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebgra&show_icons=true&locale=en&layout=compact" alt="sebgra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebgra&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="sebgra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebgra&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="sebgra" /></p>
 
