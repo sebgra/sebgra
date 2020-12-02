@@ -7,6 +7,8 @@
 
 - 🔭 I'm currently working on **the objectivation of xSPECT technology (Siemens) and the development of supervised segmentation method for medical images**
 
+- :mag: I'm seraching for a **PhD in Bioinformatics**
+
 - 🌱 I’m currently learning **JavaScript and the use of bioinformatics for drug development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sebgra](https://github.com/sebgra)
