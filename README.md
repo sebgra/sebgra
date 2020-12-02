@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neitsabes19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neitsabes19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sébastien gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sébastien gradit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/s-gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="s-gradit" height="30" width="40" /></a>
-<a href="https://kaggle.com/sébastien gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sébastien gradit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sebastien-gradit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sébastien gradit" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10441276/s-gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="s-gradit" height="30" width="40" /></a>
+<a href="https://kaggle.com/sbastiengradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sébastien gradit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebgra&show_icons=true&locale=en&layout=compact" alt="sebgra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebgra&show_icons=true&locale=en" alt="sebgra" /></p>
+
