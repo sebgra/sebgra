@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/neitsabes19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neitsabes19" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sebastien-gradit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sébastien gradit" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10441276/s-gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="s-gradit" height="30" width="40" /></a>
 <a href="https://kaggle.com/sbastiengradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sébastien gradit" height="30" width="40" /></a>
