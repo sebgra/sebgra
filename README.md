@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebgra&theme=onedark" alt="sebgra" /></a> </p>
 
-- 🔭 I'm currently working on **the objectivation of xSPECT technology (Siemens) and the development of supervised segmentation method for medical images**
+- 🔭 I was working on **the objectivation of xSPECT technology (Siemens) and the development of supervised segmentation method for medical images**
 
-- :mag: I'm seraching for a **PhD in Bioinformatics**
+- :mag: I'm starting for a **PhD in Bioinformatics**
 
 - 🌱 I’m currently learning **JavaScript and the use of bioinformatics for drug development**
 
