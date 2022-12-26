@@ -39,41 +39,55 @@
 <h3 align="left">Frameworks:</h3>
 
 <h4 align="left">Data Handling & Analysis</h4>
+<p align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/>
-
+    </p>
 
 <h4 align="left">Machine & Deep learning</h4>
+<p align = "left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-
+    </p>
 
 <h4 align="left">Image processing</h4>
+<p align="left">
 	<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    </p>
 
 <h4 align="left">Graphical User Interface</h4>
+<p align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+    </p>
 
 <h4 align="left">Reporting</h4>
+<p align="left">
     <img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" alt = "Markdown" width  = "40" height = "40">
     <img src="https://github.com/detain/svg-logos/blob/master/svg/latex.svg" alt = "LaTex" width  = "40" height = "40">
+    </p>
 
 <h4 align="left">Scientific drawing</h4>
-	<img src="https://github.com/sebgra/Logos/blob/master/GIMP_Icon.svg" alt="gimp" width="40" height="40"/> 	
+<p align="left">
+	<img src="https://github.com/sebgra/Logos/blob/master/GIMP_Icon.svg" alt="gimp" width="40" height="40"/>
+    </p>
 
 <h4 align="left">Code versioning</h4>
+<p align="left">
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://github.com/sebgra/Logos/blob/master/photoshop-cc.svg" alt="photoshop" width="40" height="40"/>
     <img src="https://github.com/sebgra/Logos/blob/master/Inkscape_Logo.svg" alt="inkscape" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    </p> 
 
 
 <h4 align="left">Other</h4>
+<p align="left">
 	<img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="brave" width="40" height="40"/>
+    </p>
 
 
 
