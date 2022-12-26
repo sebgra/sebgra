@@ -28,7 +28,7 @@
 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 	<img src="https://github.com/sebgra/Logos/blob/master/c-seeklogo.com.svg" alt="cplusplus" width="40" height="40"/> 
 	<img src="https://github.com/sebgra/Logos/blob/master/python-seeklogo.com.svg" alt="python" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
+	<img src="https://github.com/sebgra/Logos/blob/master/rust-svgrepo-com.svg" alt="Rust" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
