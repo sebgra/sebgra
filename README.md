@@ -7,7 +7,7 @@
 
 - 🔭 I was working on **the objectivation of xSPECT technology (Siemens) and the development of supervised segmentation method for medical images**
 
-- :mag: I'm currently working on **genomes conformations using Hi-C data**
+- :mag: I'm currently working on **Omics data reconstruction through statistical learning**
 
 - 🌱 I’m currently learning **Rust**
 
@@ -15,11 +15,15 @@
 
 - ⚡ Fun fact **I love to play hockey**
 
+<h3> My C.V</h3>
+
+[View my CV](https://github.com/sebgra/CV/blob/master/cv.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/sebastien-gradit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sébastien gradit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10441276/s-gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="s-gradit" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/10441276/s-gradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="s-gradit" height="30" width="40" /></a> -->
 <a href="https://kaggle.com/sbastiengradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sébastien gradit" height="30" width="40" /></a>
 </p>
 
