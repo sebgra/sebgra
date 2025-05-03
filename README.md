@@ -25,7 +25,6 @@
   <a href="https://twitter.com/segradit"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109359694716296390?domain=genomic.social&style=for-the-badge&logoColor=6364FF&label=Mastodon&labelColor=%236364FF&color=%236364FF"></a>
 </p>
 
-
 <h2 id="-my-top-open-source-projects">📘 My top open source projects</h2>
 <table>
   <thead align="center">
@@ -60,7 +59,7 @@
   <thead align="center">
     <tr border:="" none;="">
       <td><b>📘 Project</b></td>
-      <td><b>⭐ Theme</b></td>
+      <td><b>🏷️ Theme</b></td>
       <td><b>📚 Data</b></td>
       <td><b>🌿 Lifecycle</b></td>
   </thead>
@@ -72,6 +71,57 @@
       <td><img alt="Lifecycle" src="https://img.shields.io/badge/lifecycle-maturing-blue?style=flat&link=https%3A%2F%2Fsebgra.github.io%2Fhicberg%2F"></td>
     </tr> -->
 
+<h2 id="-my-top-open-learning-ressources">🏫 My top learning ressources</h2>
+
+<table>
+  <thead align="center">
+    <tr border:="" none;="">
+      <td><b>📘 Lesson</b></td>
+      <td><b>🏷️ Theme - Language</b></td>
+      <td><b>🧪 Language - Framework</b></td>
+      <td><b>📚 Data - Source</b></td>
+      <td><b>🌿 Lifecycle</b></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/sebgra/AI4_Biologist"><b>AI4-Biologists</b></a></td>
+      <td><b>🧬 Genomics & A.I 🧠</b></td>
+      <td><b><a href="https://github.com/search?q=user%sebgra+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a><br>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+       </b></td>
+      <td><a href="https://aibio.sciencesconf.org/"><b>Summer-school</b></a></td>
+      <td><img alt="Lifecycle" src="https://img.shields.io/badge/lifecycle-maturing-blue?style=flat&link=https%3A%2F%2Fsebgra.github.io%2Fhicberg%2F"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sebgra/https://github.com/sebgra/bioinformatics_python"><b>Bioinformatics with Python</b></a></td>
+      <td><b>💻 Bioinformatics 🧬</b></td>
+      <td><a href="https://github.com/search?q=user%sebgra+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a></td>
+      <td><a href="https://www.packtpub.com/en-us/product/bioinformatics-with-python-cookbook-9781783558650?srsltid=AfmBOoqomKgQT49RGPtBKqo0Zfy61HBEpLaTcHRJy4m154MFSwhkSM9H"><b>Book</b></a></td>
+      <td><img alt="Lifecycle" src="https://img.shields.io/badge/lifecycle-maturing-blue?style=flat&link=https%3A%2F%2Fsebgra.github.io%2Fhicberg%2F"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sebgra/Blockchain_Basics"><b>Blockchain basics</b></a></td>
+      <td><b>🔒 Theme 💻</b></a></td>
+      <td><a href="https://github.com/search?q=user%sebgra+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <td><a href="https://www.youtube.com/watch?v=pYasYyjByKI&t=545s"><b>Youtube Video</b></a></td>
+      <td><img alt="Static Badge" src="https://img.shields.io/badge/Lifecycle-stable-green?style=flat"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sebgra/Cpp_lessons"><b>C++ 1h a day</b></a></td>
+      <td><b>💻 Programming 💻</b></a></td>
+      <td><a href="https://github.com/search?q=user%3sebgra+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <td><a href="https://www.abebooks.fr/9780789757746/Hour-Day-Sams-Teach-Rao-0789757745/plp"><b>Book</b></a></td>
+      <td><img alt="Lifecycle" src="https://img.shields.io/badge/lifecycle-stable-green?style=flat&link=https%3A%2F%2Fsebgra.github.io%2Fhicberg%2F"></td>
+    </tr>
+       <tr>
+      <td><a href="https://github.com/sebgra/Python_RegEx"><b>Python RegEx</b></a></td>
+      <td><b>💻 RegEx 💻</b></a></td>
+      <td><a href="https://github.com/search?q=user%sebgra+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <td><a href=""><b>None</b></a></td>
+      <td><img alt="Lifecycle" src="https://img.shields.io/badge/lifecycle-stable-green?style=flat&link=https%3A%2F%2Fsebgra.github.io%2Fhicberg%2F"></td>
+    </tr>
   </tbody>
 </table>
 
