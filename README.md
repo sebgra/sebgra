@@ -94,7 +94,7 @@
       <td><img alt="Lifecycle" src="https://img.shields.io/badge/lifecycle-maturing-blue?style=flat&link=https%3A%2F%2Fsebgra.github.io%2Fhicberg%2F"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/sebgra/https://github.com/sebgra/bioinformatics_python"><b>Bioinformatics with Python</b></a></td>
+      <td><a href="https://github.com/sebgra/bioinformatics_python"><b>Bioinformatics with Python</b></a></td>
       <td><b>💻 Bioinformatics 🧬</b></td>
       <td><a href="https://github.com/search?q=user%sebgra+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a></td>
